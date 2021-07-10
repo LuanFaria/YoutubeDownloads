@@ -1,6 +1,4 @@
 # YoutubeDownloads
-
-# Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuanFaria/YoutubeDownloads/blob/main/LICENSE) 
 
 # Sobre o projeto
